@@ -10,4 +10,3 @@ Welcome to my personal developer portfolio website — built to showcase my proj
 ## 🚀 Live Demo
 👉 [Visit Portfolio Website](https://jojseph.github.io/portfolio-0.1/)
 
-## 📂 Folder Structure
